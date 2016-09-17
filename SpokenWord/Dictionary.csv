@@ -1,0 +1,996 @@
+﻿Rank,Word,PartOfSpeech,Definition
+0,и,conjunction,and;though
+1,в,preposition,in;at
+2,не,particle,not
+3,он,pronoun,he
+4,на,preposition,on;it;at;to
+5,я,pronoun,I
+6,что,conjunction;pronoun,what;that;which;why
+7,тот,adjective;pronoun,that
+8,быть,verb,to be
+9,с,preposition,with;and;from;of
+10,а,conjunction,while;and;but
+11,весь,pronoun;noun,all;everything
+12,это,pronoun,that;this;it
+13,как,adverb;conjunction,how;what;as;like
+14,она,pronoun,she
+15,по,preposition,on;along;by
+16,но,conjunction;noun,but
+17,они,pronoun,they
+18,к,preposition,to;for;by
+19,у,preposition,by;with;of
+20,ты,pronoun,you;thou
+21,из,preposition,from;of;in
+22,мы,pronoun,we
+23,за,preposition,behind;over;at;after
+24,вы,pronoun,you
+25,так,adverb,so;thus;then
+26,же,conjunction;particle,and;as for;but;same
+27,от,preposition,from;of;for
+28,сказать,verb,to say;to speak
+29,этот,pronoun,this
+30,который,pronoun,which;who;that
+31,мочь,verb,be able
+32,человек,noun,man;person
+33,о,preposition,of;about;against
+34,один,cardinal number;pronoun,one;some;alone
+35,ещё,adverb,still;yet
+36,бы,particle,would
+37,такой,pronoun,such;so;some
+38,только,adverb;conjunction,only;merely;but
+39,себя,pronoun;particle,myself;himself;herself
+40,своё,pronoun;noun,one's own;my;our
+41,какой,pronoun,what;which;how
+42,когда,adverb;conjunction,when;while;as
+43,уже,adverb,already;by now
+44,для,preposition,for;to
+45,вот,particle,here;there;this is;that's
+46,кто,pronoun,who;that;some
+47,да,conjunction;particle,yes;but
+48,говорить,verb,to say;to tell;to speak
+49,год,noun,year
+50,знать,verb,to know;be aware
+51,мой,pronoun,my;mine
+52,до,preposition,to;up to;about;before
+53,или,conjunction,or
+54,если,conjunction,if
+55,время,noun,time;season
+56,рука,noun,hand;arm
+57,нет,negation,no;not;but
+58,самый,pronoun,most;the very;the same
+59,ни,conjunction;particle,not a;not;neither… nor
+60,стать,verb,to become;begin;come
+61,большой,adjective,big;large;important
+62,даже,particle,even
+63,другой,pronoun,other;another;different
+64,наш,pronoun,our;ours
+65,свой,pronoun,my;our;your
+66,ну,interjection;particle,now;right;well;come on
+67,под,preposition,under;for;towards;to
+68,где,adverb,where
+69,дело,noun,business;affair;matter
+70,есть,verb,to eat;to be
+71,сам,pronoun,myself;yourself
+72,раз,noun;adverb,time;once;since
+73,чтобы,conjunction;particle,that;in order that
+74,два,cardinal number,two
+75,там,adverb,there;then
+76,чем,conjunction;particle,than;instead of
+77,глаз,noun,eye;sight
+78,жизнь,noun,life
+79,первый,adjective;number,first;front;former
+80,день,noun,day
+81,тут,adverb,here;now;then
+82,во,preposition;particle,in;at;super;exactly
+83,ничто,pronoun,nothing
+84,потом,adverb,afterwards;then
+85,очень,adverb,very
+86,со,preposition,with
+87,хотеть,verb,to want;like
+88,ли,conjunction;particle,whether;if
+89,при,preposition,attached to;in the presence of;by;about
+90,голова,noun,head;mind;brains
+91,надо,prep;verb,over;above;ought to
+92,без,preposition,without
+93,видеть,verb,to see
+94,идти,verb,to go;come
+95,теперь,adverb,now;nowadays
+96,тоже,adverb,also;as well;too
+97,стоять,verb,to stand;be;stand up
+98,друг,noun,friend
+99,дом,noun,house;home
+100,сейчас,adverb,now;presently;soon
+101,можно,predicate,one can
+102,после,preposition,after;afterwards
+103,слово,noun,word
+104,здесь,adverb,here
+105,думать,verb,to think;believe
+106,место,noun,place;seat
+107,спросить,verb,to ask
+108,через,preposition,through;across
+109,лицо,noun,face;person
+110,тогда,adverb,then
+111,ведь,conjunction,you see;you know
+112,хороший,adjective,good;nice
+113,каждый,pronoun,each;every
+114,новый,adjective,new;modern
+115,жить,verb,to live
+116,должный,adjective,due;proper
+117,смотреть,verb,to look;watch
+118,почему,adverb,why
+119,потому,adverb,that's why
+120,сторона,noun,side;party
+121,просто,adverb,simply
+122,нога,noun,foot;leg
+123,сидеть,verb,to sit
+124,понять,verb,to understand;realize
+125,иметь,verb,to have;own
+126,конечный,adjective,final;last
+127,делать,verb,to do;make
+128,вдруг,adverb,suddenly
+129,над,preposition,above;over
+130,взять,verb,to take
+131,никто,pronoun,nobody
+132,сделать,verb,to do;make;finish
+133,дверь,noun,door
+134,перед,preposition,before;in front of
+135,нужный,adjective,necessary
+136,понимать,verb,to understand
+137,казаться,verb,to seem;appear
+138,работа,noun,work;job
+139,три,cardinal number,three
+140,ваш,pronoun,yours
+141,уж,adverb;particle,really;already
+142,земля,noun,earth;land;soil
+143,конец,noun,end;distance
+144,несколько,adverb,several;some
+145,час,noun,hour;time
+146,голос,noun,voice
+147,город,noun,town;city
+148,последний,adjective,last;the latest;new
+149,пока,adverb,for the present
+150,хорошо,adverb,well
+151,давать,verb,to give;let;allow
+152,вода,noun,water
+153,более,adverb,more
+154,хотя,conjunction,although
+155,всегда,adverb,always
+156,второй,ordinal number,second
+157,куда,adverb,where;what for;much
+158,пойти,verb,to go
+159,стол,noun,table;desk;board
+160,ребёнок,noun,child;kid;infant
+161,увидеть,verb,to see
+162,сила,noun,strength;force
+163,отец,noun,father
+164,женщина,noun,woman
+165,машина,noun,car;machine;engine
+166,случай,noun,case;occasion;incident
+167,ночь,noun,night
+168,сразу,adverb,at once;right away;just
+169,мир,noun,world
+170,совсем,adverb,quite;entirely;totally
+171,остаться,verb,to remain;stay
+172,об,preposition,about;of
+173,вид,noun,appearance;look;view
+174,выйти,verb,to go out;come out;appear
+175,дать,verb,to give
+176,работать,verb,to work
+177,любить,verb,to love
+178,старый,adjective,old
+179,почти,adverb,almost
+180,ряд,noun,row;line
+181,оказаться,verb,find oneself;turn out
+182,начало,noun,beginning;origin;source
+183,твой,pronoun,your;yours
+184,вопрос,noun,question;matter;problem
+185,много,adverb,many;much;a lot of
+186,война,noun,war
+187,снова,adverb,again
+188,ответить,verb,to answer;reply
+189,между,preposition,between;among
+190,подумать,verb,to think
+191,опять,adverb,again
+192,белый,adjective,white
+193,деньги,noun,money
+194,значить,verb,to mean;signify
+195,про,preposition,about;for
+196,лишь,adverb;conjunction,only;as soon as
+197,минута,noun,minute;moment
+198,жена,noun,wife
+199,посмотреть,verb,to take a look;watch;inspect
+200,правда,noun,truth
+201,главный,adjective,main;chief
+202,страна,noun,country
+203,свет,noun,light;world
+204,ждать,verb,to wait
+205,мать,noun,mother
+206,будто,conjunction,as if;as though
+207,никогда,adverb,never
+208,товарищ,noun,comrade;friend
+209,дорога,noun,road;way;journey
+210,однако,conjunction;misc,however;though
+211,лежать,verb,to lie;be situated
+212,именно,misc,namely;just
+213,окно,noun,window;windowsill
+214,никакой,pronoun,no;none
+215,найти,verb,to find;discover;consider
+216,писать,verb,to write
+217,комната,noun,a room
+218,Москва,noun,Moscow
+219,часть,noun,part;share;department
+220,вообще,adverb,in general;altogether;on the whole
+221,книга,noun,a book
+222,маленький,adjective,small;little
+223,улица,noun,street
+224,решить,verb,to decide;solve
+225,далекий,adjective,distant;remote
+226,душа,noun,soul;spirit
+227,чуть,adverb,hardly;slightly
+228,вернуться,verb,to return
+229,утро,noun,morning
+230,некоторый,pronoun,some
+231,считать,verb,to count;consider
+232,сколько,cardinal,how much;how many
+233,помнить,verb,to remember
+234,вечер,noun,evening
+235,пол,noun,floor;sex;gender
+236,таки,particle,after all
+237,получить,verb,to receive;get;obtain
+238,народ,noun,people;nation
+239,плечо,noun,shoulder;upper arm
+240,хоть,conjunction,even;if you want;though
+241,сегодня,adverb,today
+242,бог,noun,god
+243,вместе,adverb,together
+244,взгляд,noun,look;glance;view
+245,ходить,verb,to go;walk
+246,зачем,adverb,what for;why
+247,советский,adjective,Soviet
+248,русский,adjective,Russian
+249,бывать,verb,be;visit;happen
+250,полный,adjective,full;complete
+251,прийти,verb,to come;arrive
+252,палец,noun,finger;toe
+253,Россия,noun,Russia
+254,любой,pronoun,any;every
+255,история,noun,history;story;event
+256,наконец,adverb,at last;finally
+257,мысль,noun,thought;idea
+258,узнать,verb,to know;learn;recognize
+259,назад,adverb,back;backwards
+260,общий,adjective,general;common
+261,заметить,verb,to notice;observe
+262,словно,conjunction,as if;like
+263,прошлый,adjective,past
+264,уйти,verb,to leave;go away
+265,известный,adjective,well-known;famous
+266,давно,adverb,long ago
+267,слышать,verb,to hear
+268,слушать,verb,to listen;hear
+269,бояться,verb,to be afraid;fear
+270,сын,noun,son
+271,нельзя,predicate,it is impossible;can't
+272,прямо,adverb,straight;frankly
+273,долго,adverb,for a long time
+274,быстро,adverb,fast;quickly
+275,лес,noun,forest
+276,похожий,adjective,similar;alike
+277,пора,noun,time;pore;it's time;at times;now and then
+278,пять,cardinal number,five
+279,глядеть,verb,to look;gaze
+280,оно,pronoun,it
+281,сесть,verb,to sit
+282,имя,noun,name
+283,ж,misc,and;as for;but
+284,разговор,noun,talk;conversation
+285,тело,noun,body
+286,молодой,adjective,young;bridegroom (n.)
+287,стена,noun,wall
+288,красный,adjective,red
+289,читать,verb,to read
+290,право,noun,right
+291,старик,noun,old man
+292,ранний,adjective,early
+293,хотеться,verb,want;like
+294,мама,noun,mummy;mum
+295,оставаться,verb,to remain;stay
+296,высокий,adjective,tall;high
+297,путь,noun,way;track;path
+298,поэтому,adverb,therefore
+299,совершенно,adverb,absolutely;quite
+300,кроме,preposition,except;besides
+301,тысяча,cardinal number,a thousand
+302,месяц,noun,month
+303,брать,verb,to take;hire
+304,написать,verb,to write
+305,целый,adjective,intact;whole;entire
+306,огромный,adjective,huge;enormous
+307,начинать,verb,to begin
+308,спина,noun,back
+309,настоящий,adjective,present;real;true
+310,пусть,conjunction;particle,let's;though
+311,язык,noun,tongue;language
+312,точно,adverb,exactly
+313,среди,preposition,among
+314,чувствовать,verb,to feel
+315,сердце,noun,heart
+316,вести,verb,to lead
+317,иногда,adverb,sometimes
+318,мальчик,noun,boy
+319,успеть,verb,to be in time;be successful
+320,небо,noun,sky
+321,живой,adjective,living;live;lively
+322,смерть,noun,death
+323,продолжать,verb,to continue
+324,девушка,noun,girl;miss
+325,образ,noun,shape;form;image
+326,ко,preposition,to;towards;by
+327,забыть,verb,to forget
+328,вокруг,preposition,around
+329,письмо,noun,letter
+330,власть,noun,power
+331,чёрный,adjective,black
+332,пройти,verb,to pass;go by;be over
+333,появиться,verb,to appear;show up
+334,воздух,noun,air
+335,разный,adjective,different
+336,выходить,verb,to go out;nurse
+337,просить,verb,to ask
+338,брат,noun,brother
+339,собственный,adjective,one's own
+340,отношение,noun,relationship;attitude
+341,затем,adverb,then;after that
+342,пытаться,verb,to try
+343,показать,verb,to show;display
+344,вспомнить,verb,to remember;recall
+345,система,noun,system
+346,четыре,cardinal number,four
+347,квартира,noun,flat;apartment
+348,держать,verb,to hold;keep
+349,также,misc,also;as well;too
+350,любовь,noun,love
+351,солдат,noun,soldier
+352,откуда,adverb,where… from
+353,чтоб,misc,that;in order that
+354,называть,verb,to call;name
+355,третий,ordinal number,third
+356,хозяин,noun,master;boss;host
+357,вроде,preposition;particle,like;not unlike
+358,уходить,verb,to leave;go away
+359,подойти,verb,to approach;come up
+360,поднять,verb,to lift;raise
+361,особенно,adverb,especially;particularly
+362,спрашивать,verb,to ask;inquire
+363,начальник,noun,chief;head;superior
+364,оба,numeral,both
+365,бросить,verb,to throw
+366,школа,noun,school
+367,парень,noun,boy;fellow;guy
+368,кровь,noun,blood
+369,двадцать,cardinal number,twenty
+370,солнце,noun,sun
+371,неделя,noun,week
+372,послать,verb,to send;dispatch
+373,находиться,verb,to be found;turn up
+374,ребята,noun,guys;children
+375,поставить,verb,to put;place;set
+376,встать,verb,to get up;rise;stand up
+377,например,misc,for example;for instance
+378,шаг,noun,step
+379,мужчина,noun,man;male
+380,равно,adverb,alike;in like manner
+381,нос,noun,nose
+382,мало,adverb,little;few;not enough
+383,внимание,noun,attention
+384,капитан,noun,captain;master
+385,ухо,noun,ear
+386,туда,adverb,there
+387,сюда,adverb,here
+388,играть,verb,to play
+389,следовать,verb,to follow;come next
+390,рассказать,verb,to tell;narrate
+391,великий,adjective,great
+392,действительно,adverb,indeed;really
+393,слишком,adverb,too;too much
+394,тяжёлый,adjective,heavy
+395,спать,verb,to sleep
+396,оставить,verb,to leave;abandon
+397,войти,verb,to enter;come in
+398,длинный,adjective,long
+399,чувство,noun,feeling
+400,молчать,verb,to keep silence
+401,рассказывать,verb,to tell;narrate
+402,отвечать,verb,to answer;reply
+403,становиться,verb,to stand;to become
+404,остановиться,verb,to stop
+405,берег,noun,bank;shore;coast
+406,семья,noun,family
+407,искать,verb,to search
+408,генерал,noun,general
+409,момент,noun,moment;instant
+410,десять,cardinal number,ten
+411,начать,verb,to begin
+412,следующий,adjective,next;following
+413,личный,adjective,personal
+414,труд,noun,labour;work
+415,верить,verb,to believe
+416,группа,noun,group
+417,немного,adverb,a little
+418,впрочем,conjunction,however;though
+419,видно,misc,evidently;obviously
+420,являться,verb,to appear
+421,муж,noun,husband
+422,разве,particle,really?;perhaps
+423,движение,noun,movement
+424,порядок,noun,order
+425,ответ,noun,answer;reply
+426,тихо,adverb,quietly;softly;slowly
+427,знакомый,adjective,familiar;acquainted
+428,газета,noun,newspaper
+429,помощь,noun,help
+430,сильный,adjective,strong;powerful
+431,скорый,adjective,quick;fast
+432,собака,noun,dog
+433,дерево,noun,tree
+434,снег,noun,snow
+435,сон,noun,dream
+436,смысл,noun,sense;meaning;purpose
+437,смочь,verb,to be able
+438,против,preposition,against;opposite;contrary to
+439,бежать,verb,to run;hurry
+440,двор,noun,yard;court
+441,форма,noun,form;shape;uniform
+442,простой,adjective,simple;easy;plain
+443,приехать,verb,to arrive;come
+444,иной,pronoun,different;other
+445,кричать,verb,to cry;shout
+446,возможность,noun,possibility;opportunity;chance
+447,общество,noun,society
+448,зеленый,adjective,green
+449,грудь,noun,breast;chest
+450,угол,noun,corner;angle
+451,открыть,verb,to open
+452,происходить,verb,to happen;occur;take place
+453,ладно,adverb,in harmony;well;all right
+454,черный,noun,black
+455,век,noun,century;age
+456,карман,noun,pocket
+457,ехать,verb of motion,to go;ride;drive;travel
+458,немец,noun,German
+459,наверное,adverb,probably;most likely
+460,губа,noun,lip
+461,дядя,noun,uncle
+462,приходить,verb,to come;arrive
+463,часто,adverb,often
+464,домой,adverb,home
+465,огонь,noun,fire
+466,писатель,noun,writer
+467,армия,noun,army
+468,состояние,noun,state;condition;fortune
+469,зуб,noun,tooth
+470,очередь,noun,line;queue;turn
+471,кой,pronoun,which (in literature)
+472,подняться,verb,to rise;climb
+473,камень,noun,stone
+474,гость,noun,guest
+475,показаться,verb,to appear;come in sight
+476,ветер,noun,wind
+477,собираться,verb,to gather together;assemble;intend
+478,попасть,verb,to hit;to find oneself
+479,принять,verb,to take;admit;accept
+480,сначала,adverb,at first;from the beginning
+481,либо,conjunction,or
+482,поехать,verb,to depart;set off
+483,услышать,verb,to hear
+484,уметь,verb,to be able;know;can
+485,случиться,verb,to happen
+486,странный,adjective,strange
+487,единственный,adjective,only;sole
+488,рота,noun,military company
+489,закон,noun,law;act;statue
+490,короткий,adjective,short
+491,море,noun,sea
+492,добрый,adjective,kind
+493,темный,adjective,dark
+494,гора,noun,mountain;hill
+495,врач,noun,physician;doctor
+496,край,noun,border;edge;land;country
+497,стараться,verb,to try;endeavor
+498,лучший,adjective,better;best
+499,река,noun,river
+500,военный,adjective,military
+501,мера,noun,measure;step
+502,страшный,adjective,terrible;frightful
+503,вполне,adverb,quite;fully
+504,звать,verb,to call
+505,произойти,verb,to happen;occur;take place
+506,вперед,preposition,forward
+507,медленно,adverb,slowly
+508,возле,preposition,by;near;close by
+509,никак,adverb,in now way;by no means
+510,заниматься,verb,to be occupied;engage
+511,действие,noun,action;effect
+512,довольно,adverb,enough;rather
+513,вещь,noun,thing
+514,необходимый,adjective,necessary
+515,ход,noun,move
+516,боль,noun,pain
+517,судьба,noun,fate;fortune;destiny
+518,причина,noun,cause;reason;motive
+519,положить,verb,to lay down;put down;place
+520,едва,adverb,hardly;just;barely
+521,черта,noun,line;boundary;trait
+522,девочка,noun,girl;little girl
+523,лёгкий,adjective,light;easy
+524,волос,noun,hair
+525,купить,verb,to buy;purchase
+526,номер,noun,number;size;room;issue
+527,основной,adjective,main
+528,широкий,adjective,wide
+529,умереть,verb,to die
+530,далеко,adverb,far;far off
+531,плохо,adverb,badly
+532,глава,noun,head;chief
+533,красивый,adjective,beautiful
+534,серый,adjective,grey;dull
+535,пить,verb,to drink
+536,командир,noun,commander;commanding officer
+537,обычно,adverb,usually
+538,партия,noun,party
+539,проблема,noun,problem;issue
+540,страх,noun,fear
+541,проходить,verb,to pass;go;study
+542,ясно,adverb,clear;clearly
+543,снять,verb,to take away;take off;photograph
+544,бумага,noun,paper
+545,герой,noun,hero
+546,пара,noun,pair;couple
+547,государство,noun,State
+548,деревня,noun,village;country
+549,речь,noun,speech
+550,начаться,verb,to begin
+551,средство,noun,means;remedy
+552,положение,noun,position;posture;condition;state
+553,связь,noun,tie;bond;connection;relation
+554,скоро,adverb,quickly;fast;soon
+555,небольшой,adjective,small;not great
+556,представлять,verb,to present;introduce;imagine
+557,завтра,adverb,tomorrow
+558,объяснить,verb,to explain
+559,пустой,adjective,empty;hollow;idle
+560,произнести,verb,to pronounce;say;utter
+561,человеческий,adjective,human
+562,нравиться,verb,to please;like
+563,однажды,adverb,once;one day
+564,мимо,preposition,past;by
+565,иначе,adverb,otherwise;differently
+566,существовать,verb,to exist;to be
+567,класс,noun,class
+568,удаться,verb,turn out well;succeed;manage
+569,толстый,adjective,thick;heavy;fat
+570,цель,noun,goal;object;target
+571,сквозь,preposition,through
+572,прийтись,verb,to fit;fall;have to
+573,чистый,adjective,clean;pure
+574,прежний,adjective,former
+575,профессор,noun,professor
+576,господин,noun,gentleman;Mr.
+577,счастье,noun,happiness;luck
+578,худой,adjective,thin;skinny
+579,дух,noun,spirit
+580,план,noun,plan
+581,чужой,adjective,somebody else's;strange;foreign
+582,зал,noun,hall
+583,представить,verb,to present;produce;introduce
+584,особый,adjective,special
+585,директор,noun,director;manager
+586,бывший,adjective,former;ex-
+587,память,noun,memory
+588,близкий,adjective,near;similar;intimate
+589,сей,pronoun,this
+590,результат,noun,result;outcome
+591,больной,adjective,sick
+592,данный,adjective,given;present
+593,кстати,adverb,to the point;at the same time
+594,назвать,verb,to call;name
+595,след,noun,track;footprint
+596,улыбаться,verb,to smile
+597,бутылка,noun,bottle
+598,трудно,adverb,with difficulty
+599,условие,noun,condition;term
+600,прежде,preposition,before
+601,ум,noun,mind;brains;intellect
+602,улыбнуться,verb,to smile
+603,процесс,noun,process
+604,картина,noun,picture;painting
+605,вместо,preposition,instead
+606,старший,adjective,elder;senior
+607,легко,adverb,easily;lightly
+608,центр,noun,center
+609,подобный,adjective,similar;like
+610,возможно,adverb,perhaps;possibly
+611,около,preposition,by;near
+612,смеяться,verb,to laugh
+613,сто,cardinal number,hundred
+614,будущее,noun,future
+615,хватать,verb,to snatch;seize;be sufficient
+616,число,noun,number
+617,всякое,pronoun,any;every
+618,рубль,noun,ruble
+619,почувствовать,verb,to feel
+620,принести,verb,to bring
+621,вера,noun,faith;belief
+622,вовсе,adverb,quiet;not … at all
+623,удар,noun,blow;stroke
+624,телефон,noun,telephone
+625,колено,noun,knee
+626,согласиться,verb,to agree;consent
+627,коридор,noun,corridor;passage
+628,мужик,noun,muzhik;man
+629,правый,adjective,right
+630,автор,noun,author
+631,холодный,adjective,cold;cool
+632,хватить,verb,to snatch;seize;suffice
+633,многие,pronoun,many
+634,встреча,noun,meeting;reception
+635,кабинет,noun,study;room;office suite
+636,документ,noun,document
+637,самолет,noun,aircraft;airplane
+638,вниз,adverb,down;downwards
+639,принимать,verb,to take;admin;accept
+640,игра,noun,game;play
+641,рассказ,noun,story
+642,хлеб,noun,bread
+643,развитие,noun,development
+644,убить,verb,to kill
+645,родной,adjective,own;native;dear
+646,открытый,adjective,open
+647,менее,adverb,less
+648,предложить,verb,to offer;propose;suggest
+649,желтый,adjective,yellow
+650,приходиться,verb,to fit;fall;have to
+651,выпить,verb,to drink
+652,крикнуть,verb,to cry;shout
+653,трубка,noun,tube;roll;pipe
+654,враг,noun,enemy
+655,показывать,verb,to show;display
+656,двое,cardinal number,two
+657,доктор,noun,doctor
+658,ладонь,noun,palm
+659,вызвать,verb,to call;send
+660,спокойно,adverb,quietly
+661,попросить,verb,to ask
+662,наука,noun,science
+663,лейтенант,noun,lieutenant
+664,служба,noun,service;work
+665,оказываться,verb,to turn out;find oneself
+666,привести,verb,to bring
+667,сорок,cardinal number,forty
+668,счет,noun,bill;account
+669,возвращаться,verb,to return
+670,золотой,adjective,golden
+671,местный,adjective,local
+672,кухня,noun,kitchen
+673,крупный,adjective,large;big;prominent
+674,решение,noun,decision;conclusion
+675,молодая,noun,bride;young (adj.)
+676,тридцать,cardinal number,thirty
+677,роман,noun,novel;romance
+678,требовать,verb,to demand
+679,компания,noun,company
+680,частый,adjective,frequent
+681,российский,adjective,Russian
+682,рабочий,adjective,working
+683,потерять,verb,to lose
+684,течение,noun,current
+685,синий,adjective,dark blue
+686,столько,adverb,so much;so many
+687,теплый,adjective,warm
+688,метр,noun,meter
+689,достать,verb,to reach;get;obtain
+690,железный,adjective,ferrous;iron
+691,институт,noun,institute
+692,сообщить,verb,to report;let know
+693,интерес,noun,interes
+694,обычный,adjective,usual;ordinary
+695,появляться,verb,to appear;show up
+696,упасть,verb,to fall
+697,остальной,adjective,remaining;the rest of
+698,половина,noun,half
+699,московский,adjective,Moscow
+700,шесть,cardinal number,six
+701,получиться,verb,to come;arrive;turn out
+702,качество,noun,quality
+703,бой,noun,battle;fight;combat
+704,шея,noun,neck
+705,вон,adverb,out
+706,идея,noun,idea
+707,видимо,adverb,apparently;seemingly
+708,достаточно,adverb,enough;sufficiently
+709,провести,verb,to accompany;set off;conduct;spend
+710,важный,adjective,important
+711,трава,noun,grass
+712,дед,noun,grandfather;old man
+713,сознание,noun,consciousness
+714,родитель,noun,parent
+715,простить,verb,to forgive
+716,бить,verb,to beat;hit
+717,чай,noun,tea
+718,поздний,adjective,late
+719,кивнуть,verb,to nod
+720,род,noun,family;clan;generation
+721,исчезнуть,verb,to disappear
+722,тонкий,adjective,thin
+723,немецкий,adjective,German
+724,звук,noun,sound
+725,отдать,verb,to return;give back
+726,магазин,noun,shop;store
+727,президент,noun,president;director
+728,поэт,noun,poet
+729,спасибо,noun,gratitude;thanks
+730,болезнь,noun,illness;sickness;disease
+731,событие,noun,event
+732,помочь,verb,to help
+733,кожа,noun,skin
+734,лист,noun,leaf;sheet
+735,слать,verb,to send
+736,вспоминать,verb,to remember;recall
+737,прекрасный,adjective,beautiful;fine
+738,слеза,noun,tear
+739,надежда,noun,hope
+740,молча,adverb,silently;without a word
+741,сильно,adverb,strongly
+742,верный,adjective,correct;faithful;reliable
+743,литература,noun,literature
+744,оружие,noun,weapon
+745,готовый,adjective,ready
+746,запах,noun,smell;odor;scent
+747,неожиданно,adverb,unexpectedly;suddenly
+748,вчера,adverb,yesterday
+749,вздохнуть,verb,to take breath;to sigh
+750,роль,noun,role
+751,рост,noun,growth;increase;height
+752,природа,noun,nature
+753,политический,adjective,political
+754,точка,noun,dot;point
+755,звезда,noun,star
+756,петь,verb,to sing
+757,садиться,verb,to sit down
+758,фамилия,noun,surname
+759,характер,noun,character;disposition;temper
+760,пожалуйста,misc,please
+761,выше,adverb,higher
+762,офицер,noun,officer
+763,толпа,noun,crowd
+764,перестать,verb,to stop;cease
+765,придтись,verb,to fit;fall;have to
+766,уровень,noun,level
+767,неизвестный,adjective,unknown
+768,кресло,noun,armchair
+769,баба,noun,woman;wife;old woman
+770,секунда,noun,a second
+771,пожаловать,verb,to grant;bestow
+772,банк,noun,bank
+773,опыт,noun,experience
+774,тихий,adjective,quiet;low;silent
+775,поскольку,misc,so far as;since
+776,сапог,noun,boot;riding boot
+777,правило,noun,rule
+778,стекло,noun,glass
+779,получать,verb,to receive;get
+780,внутренний,adjective,inside;internal
+781,дочь,noun,daughter
+782,называться,verb,to call oneself
+783,надеяться,verb,to hope
+784,член,noun,member;limb
+785,протянуть,verb,to stretch;extend
+786,государственный,adjective,State
+787,десяток,noun,ten;dozens
+788,глубокий,adjective,deep
+789,цветок,noun,flower
+790,ах,misc,ah!;oh!
+791,желание,noun,wish
+792,дождь,noun,rain
+793,впереди,preposition,before;in front of
+794,подходить,verb,to come up;approach;to fit
+795,лоб,noun,forehead
+796,улыбка,noun,smile
+797,борьба,noun,fight;struggle
+798,ворот,noun,collar
+799,ящик,noun,box;case
+800,этаж,noun,floor;story
+801,служить,verb,to serve
+802,вновь,adverb,again;once more
+803,голубой,adjective,blue;sky-blue
+804,нечего,misc,there is nothing;there is no need
+805,революция,noun,revolution
+806,впервые,adverb,for the first time
+807,сосед,noun,neighbor
+808,сестра,noun,sister
+809,долгий,adjective,long
+810,чей,pronoun,whose
+811,поверить,verb,to believe
+812,ситуация,noun,situation
+813,взглянуть,verb,to look;give a glance
+814,слабый,adjective,weak
+815,количество,noun,quantity
+816,вызывать,verb,to call;send
+817,уверенный,adjective,confident;sure
+818,выход,noun,exit
+819,совет,noun,advice
+820,дурак,noun,fool;idiot
+821,любимый,adjective,dear;loved
+822,союз,noun,union;alliance;conjunction
+823,лето,noun,summer
+824,ожидать,verb,to expect
+825,пришлый,adjective,alien;strange
+826,висеть,verb,to hang
+827,граница,noun,border
+828,цвет,noun,color
+829,серьезный,adjective,serious
+830,создать,verb,to create;establish
+831,интересно,adverb,interestingly
+832,свобода,noun,freedom
+833,зато,conjunction,but;but then
+834,стул,noun,chair
+835,уехать,verb,to leave;depart
+836,поезд,noun,train
+837,музыка,noun,music
+838,быстрый,adjective,quick;fast
+839,тень,noun,shadow
+840,лошадь,noun,horse
+841,поле,noun,field
+842,выглядеть,verb,to look
+843,учиться,verb,to study;learn
+844,левый,adjective,left
+845,разговаривать,verb,to talk;speak
+846,детский,adjective,child's;children's
+847,тип,noun,type;model
+848,суд,noun,court;law-court
+849,связанный,adjective,related;connected;tied-up
+850,горячий,adjective,hot
+851,площадь,noun,square;area
+852,помогать,verb,to help;assist
+853,счастливый,adjective,happy
+854,повернуться,verb,to turn
+855,позволить,verb,to allow;permit
+856,встретить,verb,to meet
+857,радость,noun,gladness;joy
+858,острый,adjective,sharp;spicy
+859,возраст,noun,age
+860,орган,noun,organ;body
+861,карта,noun,map
+862,входить,verb,to enter;come in
+863,обнаружить,verb,to discover;find out
+864,король,noun,king
+865,слава,noun,glory;fame
+866,полковник,noun,colonel
+867,мелкий,adjective,shallow;small
+868,бок,noun,side;flank
+869,цена,noun,price
+870,информация,noun,information
+871,мозг,noun,brain
+872,удовольствие,noun,pleasure
+873,воля,noun,will
+874,область,noun,oblast;province;field
+875,крыша,noun,roof
+876,нести,verb,to carry
+877,обратно,adverb,back;backwards
+878,современный,adjective,contemporary;modern;up-to-date
+879,дама,noun,lady;partner;queen
+880,семь,cardinal number,seven
+881,веселый,adjective,cheerful;merry
+882,прислать,verb,to send
+883,сад,noun,garden;yard
+884,правительство,noun,government
+885,милый,adjective,nice;sweat;dear
+886,относиться,verb,to treat;regard;relate
+887,возникать,verb,to arise;appear
+888,мол,misc,he says;they say;etc.
+889,повторить,verb,to repeat
+890,название,noun,name;title
+891,средний,adjective,average;middle
+892,пример,noun,example
+893,невозможно,adverb,impossible
+894,зеркало,noun,mirror
+895,погибнуть,verb,to perish;be killed
+896,американский,adjective,American
+897,дым,noun,smog
+898,гореть,verb,to burn
+899,плакать,verb,to cry
+900,весьма,adverb,very;highly;greatly
+901,факт,noun,fact
+902,двигаться,verb,to move
+903,рыба,noun,fish
+904,добавить,verb,to add
+905,удивиться,verb,to wonder;be surprised
+906,бабушка,noun,grandmother
+907,вино,noun,wine
+908,ибо,conjunction,for
+909,учитель,noun,teacher;instructor
+910,действовать,verb,to act
+911,осторожно,adverb,carefully;cautiously
+912,круг,noun,circle
+913,папа,noun,dad;daddy
+914,правильно,adverb,correctly;properly
+915,недавно,adverb,recently;lately
+916,держаться,verb,to hold on;behave
+917,причем,adverb,moreover;and what's more
+918,лететь,verb,to fly
+919,носить,verb,to wear
+920,повод,noun,occasion;reason;bridle
+921,лагерь,noun,camp
+922,птица,noun,bird
+923,корабль,noun,ship
+924,мнение,noun,opinion
+925,ночной,adjective,night
+926,здоровый,adjective,healthy
+927,зима,noun,winter
+928,сухой,adjective,dry
+929,километр,noun,kilometre;kilometer
+930,кровать,noun,bed
+931,привыкнуть,verb,to get used to;to grow accustomed to
+932,прочее,pronoun,et cetera;other
+933,свободный,adjective,free
+934,лестница,noun,staircase
+935,неужели,particle,really;surely
+936,обязательно,adverb,without fail;be sure
+937,вверх,adverb,up;upwards
+938,детство,noun,childhood
+939,остров,noun,island
+940,статья,noun,article
+941,позвонить,verb,to call;to telephone
+942,столь,adverb,so
+943,мешать,verb,to interfere;prevent;mix
+944,водка,noun,vodka
+945,темнота,noun,darkness
+946,возникнуть,verb,to arise;spring up
+947,способный,adjective,capable;able;apt
+948,станция,noun,station
+949,желать,verb,to wish
+950,попробовать,verb,to try;test
+951,получаться,verb,to come out
+952,гражданин,noun,citizen
+953,странно,adverb,strangely
+954,вскоре,adverb,soon;shortly
+955,интересный,adjective,interesting
+956,команда,noun,team;command
+957,заболевание,noun,disease;illness
+958,живот,noun,stomach;belly
+959,ставить,verb,to put;place;set
+960,ради,preposition,for the sake of
+961,тишина,noun,silence;stillness
+962,понятно,adverb,clearly;plainly
+963,фронт,noun,front
+964,щека,noun,cheek
+965,страшно,adverb,terribly;awfully
+966,район,noun,area;region
+967,наверно,adverb,probably
+968,проводить,verb,to lead;escort;accompany
+969,выражение,noun,expression
+970,слегка,adverb,slightly
+971,мешок,noun,bag;sack
+972,обещать,verb,to promise
+973,дорогой,adjective,on the way
+974,судить,verb,to judge;try
+975,большинство,noun,majority
+976,собраться,verb,to gather;collect
+977,управление,noun,operation;control
+978,колоть,verb,to prick
+979,мокрый,adjective,wet
+980,приказ,noun,order
+981,прямой,adjective,straight
+982,закричать,verb,to shout;cry out
+983,кончиться,verb,to end
+984,куст,noun,bush
+985,стрелять,verb,to shoot
+986,художник,noun,painter;artist
+987,знак,noun,sign
+988,завод,noun,factory
+989,кулак,noun,fist
+990,использовать,verb,to use;utilize;make use of
+991,стакан,noun,glass
+992,пахнуть,verb,to smell
+993,отсюда,adverb,from here
+994,рот,noun,mouth
