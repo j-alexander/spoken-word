@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>ru-en</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.SpokenWord.iOS</string>
+	<string>com.lambdafun.SpokenWord.iOS</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>

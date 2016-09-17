@@ -50,7 +50,6 @@
   </Target>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Speech.fs" />
     <Compile Include="Entry.fs" />
     <Compile Include="Dictionary.fs" />
