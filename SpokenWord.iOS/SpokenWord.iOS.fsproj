@@ -19,9 +19,9 @@
 		&lt;key&gt;architecture&lt;/key&gt;
 		&lt;string&gt;ARMv6, ARMv7, ARMv7s, ARM64&lt;/string&gt;
 		&lt;key&gt;model&lt;/key&gt;
-		&lt;string&gt;iPhone7,2&lt;/string&gt;
+		&lt;string&gt;iPhone9,1&lt;/string&gt;
 		&lt;key&gt;os-version&lt;/key&gt;
-		&lt;string&gt;10.0.1&lt;/string&gt;
+		&lt;string&gt;10.3.1&lt;/string&gt;
 		&lt;key&gt;os&lt;/key&gt;
 		&lt;string&gt;iOS&lt;/string&gt;
 	&lt;/dict&gt;
@@ -30,34 +30,8 @@
 </TargetiOSDevice>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <SelectedDevice>iPhone 6 iOS 10.0</SelectedDevice>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
-    <DefineConstants>DEBUG;__MOBILE__;__IOS__</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <Tailcalls>false</Tailcalls>
-    <ConsolePause>false</ConsolePause>
-    <PlatformTarget>
-    </PlatformTarget>
-    <MtouchDebug>True</MtouchDebug>
-    <MtouchLink>None</MtouchLink>
-    <MtouchSdkVersion>10.1</MtouchSdkVersion>
-    <MtouchProfiling>False</MtouchProfiling>
-    <MtouchFastDev>False</MtouchFastDev>
-    <MtouchArch>i386, x86_64</MtouchArch>
-    <MtouchUseLlvm>False</MtouchUseLlvm>
-    <MtouchUseThumb>False</MtouchUseThumb>
-    <MtouchEnableBitcode>False</MtouchEnableBitcode>
-    <MtouchUseSGen>False</MtouchUseSGen>
-    <MtouchUseRefCounting>False</MtouchUseRefCounting>
-    <OptimizePNGs>True</OptimizePNGs>
-    <MtouchTlsProvider>Default</MtouchTlsProvider>
-    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
-    <MtouchFloat32>False</MtouchFloat32>
+    <SelectedDevice>646-660-3559</SelectedDevice>
+    <DefaultDevice>iPhone 7 Plus iOS 10.3</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
@@ -84,9 +58,8 @@
     <MtouchDebug>True</MtouchDebug>
     <PlatformTarget>
     </PlatformTarget>
-    <CodesignKey>iPhone Developer: Jonathan A. Leaver (F92HX8E4LH)</CodesignKey>
+    <CodesignKey>iPhone Developer</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
-    <CodesignProvision>e69c959b-db42-46fc-aecf-f5812322b495</CodesignProvision>
     <MtouchSdkVersion>10.1</MtouchSdkVersion>
     <MtouchLink>SdkOnly</MtouchLink>
     <MtouchProfiling>False</MtouchProfiling>
