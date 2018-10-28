@@ -1,0 +1,18 @@
+﻿<Project Sdk="FSharp.NET.Sdk;Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Dictionary.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Speech.fs" />
+    <Compile Include="Entry.fs" />
+    <Compile Include="Dictionary.fs" />
+    <EmbeddedResource Include="Dictionary.csv" />
+    <Compile Include="App.fs" />
+    <PackageReference Include="FSharp.Core" Version="4.5.2" />
+    <PackageReference Include="FSharp.NET.Sdk" Version="1.0.5" PrivateAssets="All" />
+    <PackageReference Include="Xamarin.Forms" Version="3.3.0.912540" />
+  </ItemGroup>
+</Project>
