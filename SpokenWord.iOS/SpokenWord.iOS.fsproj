@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\FSharp.Compiler.Tools.10.2.1\build\FSharp.Compiler.Tools.props" Condition="Exists('..\packages\FSharp.Compiler.Tools.10.2.1\build\FSharp.Compiler.Tools.props')" />
   <Import Project="..\packages\FSharp.NET.Sdk.1.0.5\build\FSharp.NET.Sdk.props" Condition="Exists('..\packages\FSharp.NET.Sdk.1.0.5\build\FSharp.NET.Sdk.props')" />
-  <Import Project="..\packages\FSharp.Compiler.Tools.4.1.17\build\FSharp.Compiler.Tools.props" Condition="Exists('..\packages\FSharp.Compiler.Tools.4.1.17\build\FSharp.Compiler.Tools.props')" />
   <Import Project="..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.props" Condition="Exists('..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
