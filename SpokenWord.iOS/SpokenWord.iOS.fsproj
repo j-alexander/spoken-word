@@ -33,8 +33,8 @@
 </TargetiOSDevice>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <SelectedDevice>iPhone 7 iOS 10.3</SelectedDevice>
-    <DefaultDevice>iPhone 7 iOS 10.3</DefaultDevice>
+    <SelectedDevice>iPhone Xs iOS 12.2</SelectedDevice>
+    <DefaultDevice>iPhone Xs iOS 12.2</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>

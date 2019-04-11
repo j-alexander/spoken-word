@@ -14,6 +14,5 @@
     <PackageReference Include="FSharp.Core" Version="4.5.2" />
     <PackageReference Include="FSharp.NET.Sdk" Version="1.0.5" PrivateAssets="All" />
     <PackageReference Include="Xamarin.Forms" Version="3.3.0.912540" />
-    <PackageReference Include="FSharp.Compiler.Tools" Version="10.2.1" />
   </ItemGroup>
 </Project>
